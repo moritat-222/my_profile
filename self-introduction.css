@@ -1,14 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
 body {
     font-family: 'Noto Sans JP', sans-serif;
-    color: white;
-    background-image:url("https://drive.google.com/uc?export=view&id=1DsYNb5oFTI354LeKV7G5fw4z49JsT9qh");
-    background-attachment: fixed;
-    background-size: cover;
+    color:black;
+    background-color: #C7EFCF;
     text-align: center;
     }
+header{
+    width: 100%;
+    height: 600px;
+    background-image:url("https://drive.google.com/uc?export=view&id=1DsYNb5oFTI354LeKV7G5fw4z49JsT9qh");
+    background-size: cover;
+}
 .image{
     margin-top: 100px;
+
 }
 .self-image{ 
     border-radius: 50px;
@@ -16,9 +21,6 @@ body {
     border: double 10px palegoldenrod;}
 .back-ground{
     text-align: center;
-}
-h3{
-    font-size: 30px;
 }
 .birthTime{
     color: red;
@@ -45,7 +47,7 @@ li{
     font-size: 50px;
 }
 .my-blue{
-    color: cyan;
+    color: #55acee;
 }
 .youtube{
     margin: 10px 0 0 0;
