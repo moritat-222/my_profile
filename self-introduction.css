@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+    background-image:url("https://drive.google.com/uc?export=view&id=1DsYNb5oFTI354LeKV7G5fw4z49JsT9qh");
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    }
+.image{
+    margin-top: 100px;
+}
+.self-image{ 
+    border-radius: 50px;
+    margin: 80px;
+    border: double 10px palegoldenrod;}
+.back-ground{
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+}
+.birthTime{
+    color: red;
+}
+table, td, th {
+    border: double 2px white;
+    background: rgb(240, 207, 109);
+    color: darkblue;
+    }
+.list{
+    height: 200px;
+    font-size: 20px;
+}
+ul{
+    float: left;
+    position: relative;
+    left: 47%;
+}
+li{
+    position: relative;
+    left: -47%
+}
+.my-big{
+    font-size: 50px;
+}
+.my-blue{
+    color: cyan;
+}
+.youtube{
+    margin: 10px 0 0 0;
+}
